@@ -6,7 +6,7 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/06b2add033260da0ce79f.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝚔𝚒𝚙𝚔𝚘𝚎𝚌𝚑}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
