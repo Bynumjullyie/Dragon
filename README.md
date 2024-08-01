@@ -6,14 +6,14 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/06b2add033260da0ce79f.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{𝚔𝚒𝚙𝚔𝚘𝚎𝚌𝚑}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝚔𝚒𝚙𝚔𝚘𝚎𝚌𝚑}/count.svg" alt="Dragon :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
-<a href="https://github.com/Kingdragony/Dragon"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingdragony/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingdragony?color=red&style=flat-square"></a>
+<a href="https://github.com/Kingdragony/Dragon"><img title="Stars" src="https://img.shields.io/github/stars/kingdragony/dragon?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kingdragony/Dragon"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
 <a href="https://github.com/Kingdragony/Dragon"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kingdragony/Dragon"><img title="Size" src="https://img.shields.io/github/repo-size/DeeCeeXxx/Queen_Anita-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Kingdragony/Dragon"><img title="Size" src="https://img.shields.io/github/repo-size/kingdragony/dragon?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingdragony%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Kingdragony/Dragon"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
