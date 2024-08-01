@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Dragon-V2"
      https://telegra.ph/file/06b2add033260da0ce79f.jpg },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
