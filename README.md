@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## 𝙳𝚁𝙰𝙶𝙾𝙽_𝚅2 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳𝚂☬☬☬☬
+ ## 𝐃𝐑𝐀𝐆𝐎𝐍_𝐕2 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐦𝐞𝐭𝐡𝐨𝐝𝐬☬☬
 
 ### 1. FORK THIS REPO
 
@@ -93,33 +93,33 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
+* [🧑‍💻 Follow 𝐃𝐑𝐀𝐆𝐎𝐍-𝐕2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/00aNPPwR30LKQk437x51Q)
 
-* [🧑‍💻 Join Queen_Anita-V2 Telegram Group 🧑‍💻](https://t.me/dctech)
+* [🧑‍💻 Join 𝐃𝐑𝐀𝐆𝐎𝐍_𝐕2 Telegram Group 🧑‍💻](https://t.me/dctech)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
+* [✅ Join Public Group ⚡]()
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐃𝐫𝐚𝐠𝐨𝐧 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
+- *Use 𝐃𝐫𝐚𝐠𝐨𝐧-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
+  #### ```𝐃𝐑𝐀𝐆𝐎𝐍 PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## HELPERS = WASI
+## HELPERS = 😬
 
 ## Support
 
-SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href= "()"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColohttps://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Qr=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/kingdragonyx)
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
