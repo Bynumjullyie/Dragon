@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "Updated Bot successfully"
         },  
         "global": {      
-            "botName": "QUEEN_ANITA-V2",
+            "botName": "DRAGON_V1™",
             "body": "Simple WhatsApp Bot", 
             "greet2" : "GoodDay SIR",
             "pic1": "https://i.imgur.com/EBUvKfB.jpeg", 
@@ -22,7 +22,7 @@
             "pic7": "https://i.imgur.com/EBUvKfB.jpeg",
             "greet" : "Hey there",
             "dotbody" : "Oh Sir Dragon My Creator.",
-            "emojii" : "🍑", 
+            "emojii" : "🦥", 
             "promote": "Dragon is an Admin",
             "pmallow": "Hello &user Do not Spam",
             "permited": "Hello Sir you Can Message Me Now.", 
