@@ -2,8 +2,8 @@
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
-global.audio = "";
-global.video = "";
+global.audio = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4";
+global.video = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "denniskipkoe393@gmail.com";
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: (process.env.THEME || "A N I T A").toUpperCase(),
+  LANG: (process.env.THEME || "DRAGON").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
